@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">김유찬 — 로봇 자율주행, SLAM, 다중센서 통합</title>
+  <desc id="desc">짙은 남색 바탕에 이름과 연구 분야, 오른쪽에 점군과 로봇 경로를 표현한 추상 그래픽.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#213449" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="#101d2b"/>
+    <rect x="770" width="430" height="300" fill="url(#grid)"/>
+    <rect x="40" y="46" width="36" height="4" rx="2" fill="#50dbc6"/>
+    <g font-family="Noto Sans CJK KR, Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+      <text x="40" y="116" fill="#f3f6fb" font-size="48" font-weight="700">김유찬</text>
+      <text x="204" y="114" fill="#8fa5bc" font-size="23" letter-spacing="2">YUCHAN KIM</text>
+      <text x="40" y="168" fill="#d6e2ef" font-size="25" font-weight="500">로봇 자율주행 · SLAM · 다중센서 통합</text>
+      <text x="40" y="216" fill="#9fb4c9" font-size="19">센서의 시간과 좌표를 맞추고, 지도와 주행으로 연결합니다.</text>
+      <text x="40" y="264" fill="#50dbc6" font-size="13" letter-spacing="1.8">C++ / PYTHON / ROS 2</text>
+    </g>
+    <g fill="none" stroke="#52758f" stroke-width="2" stroke-dasharray="1 10" stroke-linecap="round" opacity=".8">
+      <path d="M802 74H902V126H1006V54H1144V174H1090V248H930V210H802Z"/>
+      <path d="M818 90H886V142H1022V70H1128V158H1074V232H946V194H818Z"/>
+      <path d="M834 106H870V158H1038V86H1112V142H1058V216H962V178H834Z"/>
+    </g>
+    <path d="M840 142L910 171L986 180L1038 154L1078 103" fill="none" stroke="#50dbc6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#101d2b" stroke="#50dbc6" stroke-width="2">
+      <circle cx="840" cy="142" r="5"/><circle cx="910" cy="171" r="5"/>
+      <circle cx="986" cy="180" r="5"/><circle cx="1038" cy="154" r="5"/>
+    </g>
+    <circle cx="1078" cy="103" r="29" fill="none" stroke="#50dbc6" stroke-opacity=".18" stroke-width="1.5"/>
+    <circle cx="1078" cy="103" r="17" fill="none" stroke="#50dbc6" stroke-opacity=".35" stroke-width="1.5"/>
+    <path d="M1078 94L1085 110L1078 106L1071 110Z" fill="#50dbc6" transform="rotate(34 1078 103)"/>
+    <g fill="#647e97" font-family="monospace" font-size="11" letter-spacing="1">
+      <text x="816" y="273">PERCEPTION</text><text x="1010" y="273">NAVIGATION</text>
+    </g>
+  </g>
+</svg>

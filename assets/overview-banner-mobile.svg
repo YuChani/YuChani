@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title">
+  <title id="title">김유찬 — 로봇 자율주행 · SLAM · 다중센서 통합</title>
+  <rect width="600" height="300" rx="18" fill="#101d2b"/>
+  <rect x="32" y="36" width="36" height="4" rx="2" fill="#50dbc6"/>
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+    <text x="32" y="109" fill="#f3f6fb" font-size="52" font-weight="700">김유찬</text>
+    <text x="207" y="106" fill="#8fa5bc" font-size="22" letter-spacing="2">YUCHAN KIM</text>
+    <text x="32" y="163" fill="#d6e2ef" font-size="25" font-weight="500">로봇 자율주행 · SLAM · 다중센서 통합</text>
+    <text x="32" y="211" fill="#9fb4c9" font-size="23">센서에서 지도와 주행까지.</text>
+    <text x="32" y="264" fill="#50dbc6" font-size="17" letter-spacing="1.5">C++ / PYTHON / ROS 2</text>
+  </g>
+  <g fill="none" stroke="#31516b" stroke-width="1.5">
+    <path d="M472 203H552V271H472Z"/><path d="M488 219H536V255H488Z"/>
+  </g>
+  <path d="M480 246L505 239L524 242L548 212" stroke="#50dbc6" stroke-width="2.5" fill="none"/>
+  <circle cx="548" cy="212" r="5" fill="#50dbc6"/>
+</svg>
